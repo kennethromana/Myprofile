@@ -435,6 +435,17 @@ nav {
     transform: translateY(0);
   }
 }
+/* Make all links white */
+a {
+  color: white;
+  text-decoration: none; /* optional: removes underline */
+}
+
+/* Change link color when hovered */
+a:hover {
+  color: #ffcc00; /* or any highlight color you like */
+}
+
 
 
 
